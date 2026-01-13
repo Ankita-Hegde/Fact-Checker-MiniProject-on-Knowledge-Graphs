@@ -1,0 +1,9 @@
+numpy<2.0
+torch==2.1.0
+pykeen==1.10.1
+scikit-learn
+rdflib
+networkx
+pandas
+joblib
+class-resolver==0.4.2
