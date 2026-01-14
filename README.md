@@ -99,6 +99,8 @@ FoKG Fact Checker/
 git clone <repository-url>
 cd "FoKG Fact Checker"
 ```
+### Step 1.1: Please download the datasets.zip from below drive link, extract it and add it in the path as mentioned
+https://drive.google.com/file/d/1jZQTLvdU7__SHO_8sReg8QjI_1g5m5HY/view?usp=sharing
 
 ### Step 2: Create a Virtual Environment (Recommended)
 ```bash
