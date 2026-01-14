@@ -7,3 +7,4 @@ networkx
 pandas
 joblib
 class-resolver==0.4.2
+flask==2.3.0
